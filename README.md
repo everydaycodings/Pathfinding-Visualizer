@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-Welcome to Pathfinding Visualizer! You can access it here (use Google Chrome!): https://www.everydaycodings.me/Pathfinding-Visualizer/
+Welcome to Pathfinding Visualizer! You can access it here (use Google Chrome!): https://everydaycodings.github.io/Pathfinding-Visualizer/
 
 ## Meet the Algorithms
 
